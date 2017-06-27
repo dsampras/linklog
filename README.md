@@ -1,2 +1,2 @@
 # linklog
-Browsing History Manger
+Browsing History Manager
